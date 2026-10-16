@@ -4,6 +4,8 @@
 
 <br />
 
+<img src="docs/assets/logo-round.png" alt="Finku app icon" width="96" />
+
 # Finku
 
 **Jajan tracker yang ngitungin uangmu tiap hari.**

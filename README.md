@@ -19,6 +19,12 @@ Set your monthly allowance and daily limit, log what you spend, and see exactly 
 ![NativeWind](https://img.shields.io/badge/NativeWind-Tailwind%204-06B6D4?logo=tailwindcss&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-FFD600)
 
+<br />
+
+### [⬇ Download APK](https://github.com/RizkyPutraIchfiandra/finku/releases/latest/download/finku-1.0.0.apk)
+
+Android 7+, 108 MB. Nggak butuh Expo Go.
+
 </div>
 
 ---

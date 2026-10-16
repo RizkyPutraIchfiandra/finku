@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.pem
+*.mobileprovision
+
+# Expo / build output
+.expo/
+dist/
+dist-check/
+web-build/
+expo-env.d.ts
+*.apk
+*.aab
+
+# Local backend state
+.tinbase/
+.watchmeconfig
+orchd.json
+rapidnative.json
+
+# Logs
+*.log
+.metro-health-check*
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Scratch work
+_demo/
+_diagram/*.png
+_diagram/*-raw.png
+
+# Editors & OS
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo

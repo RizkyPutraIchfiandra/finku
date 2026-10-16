@@ -48,6 +48,8 @@ Set your monthly allowance and daily limit, log what you spend, and see exactly 
 
 ## Screens
 
+<img src="docs/assets/mockup.png" alt="Finku di tiga layar: kategori, beranda, insights" width="100%" />
+
 | Beranda | Add transaction | Categories | Insights |
 | --- | --- | --- | --- |
 | Budget panel, daily and monthly cards, history grouped by day | Expense or income, amount, description, category | Create and delete your own categories | Daily limit, category chart, savings goal |
